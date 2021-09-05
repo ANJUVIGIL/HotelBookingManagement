@@ -1,0 +1,7 @@
+D:\yadhu\project\miniProject\RoyalRoute\BLL\bin\Debug\BLL.dll
+D:\yadhu\project\miniProject\RoyalRoute\BLL\bin\Debug\BLL.pdb
+D:\yadhu\project\miniProject\RoyalRoute\BLL\bin\Debug\DAL.dll
+D:\yadhu\project\miniProject\RoyalRoute\BLL\bin\Debug\DAL.pdb
+D:\yadhu\project\miniProject\RoyalRoute\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\yadhu\project\miniProject\RoyalRoute\BLL\obj\Debug\BLL.dll
+D:\yadhu\project\miniProject\RoyalRoute\BLL\obj\Debug\BLL.pdb
